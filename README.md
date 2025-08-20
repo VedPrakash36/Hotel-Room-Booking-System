@@ -10,7 +10,7 @@
 
 # ✨ Beach Resort | Hotel Room Booking System
 
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+Hello 👋, I'm <strong>Ved Prakash</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
 <!-- contents of projects -->
 
@@ -25,20 +25,13 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will 
 - Admin Panel - [`🚀 Click to Visit`][admin-panel-link]
 - Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
 
-<!-- my social media links -->
-
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
 
 <!-- shield icon links -->
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https:/mg.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 <!-- live preview links -->
